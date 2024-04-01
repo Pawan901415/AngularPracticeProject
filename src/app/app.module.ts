@@ -29,7 +29,7 @@ import { RecipieService } from './recipes/recipie.service';
     BrowserModule,
     FormsModule,
   ],
-  providers: [RecipieService],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
