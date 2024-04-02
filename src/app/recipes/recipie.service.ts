@@ -13,4 +13,8 @@ export class RecipieService{
       getRecipes(){
         return this.recipes.slice();
       }
+
+      getRecipie(index:number){
+        return this.recipes[index];
+      }
 }
