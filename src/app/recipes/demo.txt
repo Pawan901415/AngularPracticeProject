@@ -1007,4 +1007,4 @@ PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE
                209,454.36             1,068.10   NEW PRINCIPAL/ESCROW BALANCES                                                      
 11-04-22  12-22  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
         181.30-      0.00       0.00    181.30-                                                                                     
-                                        621.66   NEW PRINCIPAL/ESCROW BALANCES                 kkk                                     
+                                        621.66   NEW PRINCIPAL/ESCROW BALANCES                 kkkhhh                                     
