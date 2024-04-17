@@ -1,0 +1,1010 @@
+P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+
+                                                                                                                                    
+DIANA LOPEZ                    THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+4928 CURRIE DR                 TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+LAS VEGAS            NV 89110  THIS MATERIAL HELPFUL.                                                                               
+                                                                                                                                    
+                                                    CUSTOMER SERVICE DEPARTMENT                                                     
+                                                                                                                                    
+
+*******************************************************************************                                                     
+------------------------ CURRENT ACCOUNT INFORMATION --------------------------                                                     
+                DATE     TOTAL    PRINCIPAL    LOAN       CURRENT                                                                   
+              PAYMENT   PAYMENT   & INTEREST  INTEREST    PRINCIPAL      ESCROW                                                     
+ LOAN NUMBER    DUE      AMOUNT    PAYMENT     RATE       BALANCE       BALANCE                                                     
+ 0000770388   03-01-23     707.61     393.14  3.75000     66,717.44       68.19                                                     
+*******************************************************************************                                                     
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+01-17-23  01-23  152  LATE CHARGE ASSESSMENT                                                                                        
+          0.00       0.00       0.00      0.00     28.30-1 LATE CHARGE                                                              
+01-11-23  01-23  161  ESCROW ADVANCE                                                                                                
+        314.47       0.00       0.00    314.47                                                                                      
+                                        353.68-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-11-23  01-23  148  RETURNED CHECK REMOVAL                                                                                        
+          0.00     183.50-    209.64-   314.47-                                                                                     
+                67,085.01               353.68-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-03-23  01-23  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    314.47-   314.47   ADVANCE REFUND                                                           
+                                         39.21-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-03-23  01-23  171  PAYMENT                                                                                                       
+        707.61     183.50     209.64    314.47                                                                                      
+                66,901.51                39.21-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-14-22  01-23  161  ESCROW ADVANCE                                                                                                
+        207.07       0.00       0.00    207.07                                                                                      
+                                        353.68-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-14-22  12-22  312  COUNTY TAX DISBURSEMENT                                                                                       
+        207.07-      0.00       0.00    207.07-                                                                                     
+                                        353.68-  NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 02                                                     
+
+DIANA LOPEZ                                                                                                                         
+LOAN NUMBER:  0000770388                                                                                                            
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+12-01-22  12-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    314.47-   314.47   ADVANCE REFUND                                                           
+                                        146.61-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-01-22  12-22  171  PAYMENT                                                                                                       
+        707.61     182.93     210.21    314.47                                                                                      
+                67,085.01               146.61-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-01-22  11-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    314.47-   314.47   ADVANCE REFUND                                                           
+                                        461.08-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-01-22  11-22  171  PAYMENT                                                                                                       
+        707.61     182.36     210.78    314.47                                                                                      
+                67,267.94               461.08-  NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+
+                                                                                                                                    
+BARBARA BATISTA PEREZ          THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+1905 HALLWOOD DR               TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+LAS VEGAS            NV 89119  THIS MATERIAL HELPFUL.                                                                               
+                                                                                                                                    
+                                                    CUSTOMER SERVICE DEPARTMENT                                                     
+                                                                                                                                    
+
+*******************************************************************************                                                     
+------------------------ CURRENT ACCOUNT INFORMATION --------------------------                                                     
+                DATE     TOTAL    PRINCIPAL    LOAN       CURRENT                                                                   
+              PAYMENT   PAYMENT   & INTEREST  INTEREST    PRINCIPAL      ESCROW                                                     
+ LOAN NUMBER    DUE      AMOUNT    PAYMENT     RATE       BALANCE       BALANCE                                                     
+ 0011046380   05-01-23     923.43     618.93  5.25000     82,650.44      751.03                                                     
+*******************************************************************************                                                     
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+01-03-23  02-23  171  PAYMENT                                                                                                       
+        923.43     253.99     364.94    304.50                                                                                      
+                83,161.75               559.76   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-14-22  12-22  312  COUNTY TAX DISBURSEMENT                                                                                       
+        417.73-      0.00       0.00    417.73-                                                                                     
+                                        255.26   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-05-22  01-23  171  PAYMENT                                                                                                       
+        923.43     252.88     366.05    304.50                                                                                      
+                83,415.74               672.99   NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-03-22  12-22  171  PAYMENT                                                                                                       
+        923.43     251.78     367.15    304.50                                                                                      
+                83,668.62               368.49   NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+
+                                                                                                                                    
+JANET CHAO                     THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+230 COMANCHE CT                TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+HENDERSON            NV 89074  THIS MATERIAL HELPFUL.                                                                               
+                                                                                                                                    
+                                                    CUSTOMER SERVICE DEPARTMENT                                                     
+                                                                                                                                    
+
+*******************************************************************************                                                     
+------------------------ CURRENT ACCOUNT INFORMATION --------------------------                                                     
+                DATE     TOTAL    PRINCIPAL    LOAN       CURRENT                                                                   
+              PAYMENT   PAYMENT   & INTEREST  INTEREST    PRINCIPAL      ESCROW                                                     
+ LOAN NUMBER    DUE      AMOUNT    PAYMENT     RATE       BALANCE       BALANCE                                                     
+ 0025697699   04-01-23    1103.91     912.03  4.50000    154,167.28      122.75-                                                    
+  2ND MORTGAGE:                         0.00  0.00000      2,198.46                                                                 
+*******************************************************************************                                                     
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+01-30-23  03-23  175  PRINCIPAL PAYMENT                                                                                             
+         50.00      50.00       0.00      0.00                                                                                      
+               156,798.02                        NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-30-23  02-23  173  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+01-30-23  02-23  173  PAYMENT                                                                                                       
+      1,103.91     330.85     581.18    191.88                                                                                      
+               156,848.02               914.68   NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-03-23  02-23  175  PRINCIPAL PAYMENT                                                                                             
+         50.00      50.00       0.00      0.00                                                                                      
+               157,178.87                        NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-03-23  01-23  173  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+01-03-23  01-23  173  PAYMENT                                                                                                       
+      1,103.91     329.43     582.60    191.88                                                                                      
+               157,228.87               722.80   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-14-22  12-22  312  COUNTY TAX DISBURSEMENT                                                                                       
+        358.31-      0.00       0.00    358.31-                                                                                     
+                                        530.92   NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 02                                                     
+
+JANET CHAO                                                                                                                          
+LOAN NUMBER:  0025697699                                                                                                            
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+12-05-22  01-23  175  PRINCIPAL PAYMENT                                                                                             
+         50.00      50.00       0.00      0.00                                                                                      
+               157,558.30                        NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-05-22  12-22  173  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+12-05-22  12-22  173  PAYMENT                                                                                                       
+      1,103.91     328.01     584.02    191.88                                                                                      
+               157,608.30               889.23   NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-07-22  11-22  173  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+11-07-22  11-22  173  PAYMENT                                                                                                       
+      1,103.91     326.79     585.24    191.88                                                                                      
+               157,936.31               697.35   NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+
+                                                                                                                                    
+TERESA DELATORRE               THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+3557 DURANT RIVER DR           TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+LAS VEGAS            NV 89122  THIS MATERIAL HELPFUL.                                                                               
+                                                                                                                                    
+                                                    CUSTOMER SERVICE DEPARTMENT                                                     
+                                                                                                                                    
+
+*******************************************************************************                                                     
+------------------------ CURRENT ACCOUNT INFORMATION --------------------------                                                     
+                DATE     TOTAL    PRINCIPAL    LOAN       CURRENT                                                                   
+              PAYMENT   PAYMENT   & INTEREST  INTEREST    PRINCIPAL      ESCROW                                                     
+ LOAN NUMBER    DUE      AMOUNT    PAYMENT     RATE       BALANCE       BALANCE                                                     
+ 0027247774   03-01-23     580.57     386.99  4.25000     68,224.56       11.33-                                                    
+*******************************************************************************                                                     
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+01-17-23  01-23  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00     78.87-    78.87   ADVANCE REFUND                                                           
+                                        114.71   NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-17-23  01-23  171  PAYMENT                                                                                                       
+        580.57     144.34     242.65    193.58                                                                                      
+                68,369.41               114.71   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-15-22  12-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    193.58-   193.58   ADVANCE REFUND                                                           
+                                         78.87-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-15-22  12-22  171  PAYMENT                                                                                                       
+        580.57     143.83     243.16    193.58                                                                                      
+                68,513.75                78.87-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-14-22  12-22  161  ESCROW ADVANCE                                                                                                
+        272.45       0.00       0.00    272.45                                                                                      
+                                        272.45-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-14-22  12-22  312  COUNTY TAX DISBURSEMENT                                                                                       
+        319.62-      0.00       0.00    319.62-                                                                                     
+                                        272.45-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-15-22  11-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    146.41-   146.41   ADVANCE REFUND                                                           
+                                         47.17   NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 02                                                     
+
+TERESA DELATORRE                                                                                                                    
+LOAN NUMBER:  0027247774                                                                                                            
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+11-15-22  11-22  171  PAYMENT                                                                                                       
+        580.57     143.32     243.67    193.58                                                                                      
+                68,657.58                47.17   NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+
+                                                                                                                                    
+NOVELETTE LEMKE                THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+6541 BELLA ROCK AVE            TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+LAS VEGAS            NV 89141  THIS MATERIAL HELPFUL.                                                                               
+                                                                                                                                    
+                                                    CUSTOMER SERVICE DEPARTMENT                                                     
+                                                                                                                                    
+
+*******************************************************************************                                                     
+------------------------ CURRENT ACCOUNT INFORMATION --------------------------                                                     
+                DATE     TOTAL    PRINCIPAL    LOAN       CURRENT                                                                   
+              PAYMENT   PAYMENT   & INTEREST  INTEREST    PRINCIPAL      ESCROW                                                     
+ LOAN NUMBER    DUE      AMOUNT    PAYMENT     RATE       BALANCE       BALANCE                                                     
+ 0029071842   01-01-23    2090.33    1509.79  5.25000    271,508.56    1,324.95-                                                    
+*******************************************************************************                                                     
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+01-26-23  00-00  631  PROPERTY PRESERVATION DISBURSEMENT                                                                            
+         20.00       0.00       0.00      0.00                                                                                      
+01-25-23  12-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    574.52-   574.52   ADVANCE REFUND                                                           
+                                          6.02   NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-25-23  12-22  173  PAYMENT                                                                                                       
+      2,090.33     320.54   1,189.25    580.54                                                                                      
+               271,508.56                 6.02   NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-17-23  12-22  152  LATE CHARGE ASSESSMENT                                                                                        
+          0.00       0.00       0.00      0.00     60.39-1 LATE CHARGE                                                              
+01-11-23  12-22  161  ESCROW ADVANCE                                                                                                
+        574.52       0.00       0.00    574.52                                                                                      
+                                        574.52-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-11-23  12-22  148  RETURNED CHECK REMOVAL                                                                                        
+          0.00     320.54-  1,189.25-   580.54-    15.00-2 NSF FEE                                                                  
+               271,829.10               574.52-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-05-23  05-23  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        219.31-      0.00       0.00    219.31-                                                                                     
+                                          6.02   NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 02                                                     
+
+NOVELETTE LEMKE                                                                                                                     
+LOAN NUMBER:  0029071842                                                                                                            
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+12-29-22  12-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    355.21-   355.21   ADVANCE REFUND                                                           
+                                        225.33   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-29-22  12-22  173  PAYMENT                                                                                                       
+      2,105.33     320.54   1,189.25    580.54     15.00 2 NSF FEE                                                                  
+               271,508.56               225.33   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-16-22  12-22  152  LATE CHARGE ASSESSMENT                                                                                        
+          0.00       0.00       0.00      0.00     60.39-1 LATE CHARGE                                                              
+12-16-22  00-00  631  PROPERTY PRESERVATION DISBURSEMENT                                                                            
+         30.00       0.00       0.00      0.00                                                                                      
+12-14-22  12-22  161  ESCROW ADVANCE                                                                                                
+        355.21       0.00       0.00    355.21                                                                                      
+                                        355.21-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-14-22  12-22  312  COUNTY TAX DISBURSEMENT                                                                                       
+        892.35-      0.00       0.00    892.35-                                                                                     
+                                        355.21-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-05-22  05-23  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        219.31-      0.00       0.00    219.31-                                                                                     
+                                        537.14   NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-25-22  12-22  173  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00     60.39 1 LATE CHARGE                                                              
+                                                   60.39-  UNAPPLIED FUNDS                                                          
+11-23-22  11-22  173  PAYMENT                                                                                                       
+      2,090.33     319.14   1,190.65    580.54                                                                                      
+               271,829.10               756.45   NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-16-22  11-22  152  LATE CHARGE ASSESSMENT                                                                                        
+          0.00       0.00       0.00      0.00     60.39-1 LATE CHARGE                                                              
+11-04-22  05-23  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        219.31-      0.00       0.00    219.31-                                                                                     
+                                        175.91   NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-04-22  00-00  631  PROPERTY PRESERVATION DISBURSEMENT                                                                            
+         20.00       0.00       0.00      0.00                                                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 03                                                     
+
+NOVELETTE LEMKE                                                                                                                     
+LOAN NUMBER:  0029071842                                                                                                            
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+11-02-22  10-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    185.32-   185.32   ADVANCE REFUND                                                           
+                                        395.22   NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-02-22  10-22  173  PAYMENT                                                                                                       
+      2,090.33     317.75   1,192.04    580.54                                                                                      
+               272,148.24               395.22   NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+
+                                                                                                                                    
+EDGAR G REYNA                  THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+AYMEE REYNA                    TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+3221 BERMUDA BAY STREET        THIS MATERIAL HELPFUL.                                                                               
+LAS VEGAS            NV 89117                                                                                                       
+                                                    CUSTOMER SERVICE DEPARTMENT                                                     
+                                                                                                                                    
+
+*******************************************************************************                                                     
+------------------------ CURRENT ACCOUNT INFORMATION --------------------------                                                     
+                DATE     TOTAL    PRINCIPAL    LOAN       CURRENT                                                                   
+              PAYMENT   PAYMENT   & INTEREST  INTEREST    PRINCIPAL      ESCROW                                                     
+ LOAN NUMBER    DUE      AMOUNT    PAYMENT     RATE       BALANCE       BALANCE                                                     
+ 0031330160   03-01-23    1628.48    1034.41  4.37500    174,674.34      256.52-                                                    
+*******************************************************************************                                                     
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+01-17-23  01-23  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    529.57-   529.57   ADVANCE REFUND                                                           
+                                         24.11-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-17-23  01-23  172  PAYMENT                                                                                                       
+      1,563.98     394.69     639.72    529.57                                                                                      
+               175,070.47                24.11-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-05-23  01-23  161  ESCROW ADVANCE                                                                                                
+        196.47       0.00       0.00    196.47                                                                                      
+                                        553.68-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-05-23  01-23  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        196.47-      0.00       0.00    196.47-                                                                                     
+                                        553.68-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-22-22  01-23  161  ESCROW ADVANCE                                                                                                
+        357.21       0.00       0.00    357.21                                                                                      
+                                        357.21-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-22-22  12-22  351  HAZARD INSURANCE DISBURSEMENT                                                                                 
+      2,016.00-      0.00       0.00  2,016.00-                                                                                     
+                                        357.21-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-16-22  12-22  172  PAYMENT                                                                                                       
+      1,563.98     393.26     641.15    529.57                                                                                      
+               175,465.16             1,658.79   NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 02                                                     
+
+EDGAR G REYNA                                                                                                                       
+LOAN NUMBER:  0031330160                                                                                                            
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+12-14-22  12-22  312  COUNTY TAX DISBURSEMENT                                                                                       
+        594.85-      0.00       0.00    594.85-                                                                                     
+                                      1,129.22   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-05-22  01-23  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        196.47-      0.00       0.00    196.47-                                                                                     
+                                      1,724.07   NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-18-22  12-22  173  PAYMENT                                                                                                       
+         41.38       0.00       0.00      0.00     41.38 1 LATE CHARGE                                                              
+11-18-22  11-22  172  PAYMENT                                                                                                       
+      1,563.98     391.83     642.58    529.57                                                                                      
+               175,858.42             1,920.54   NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-16-22  11-22  152  LATE CHARGE ASSESSMENT                                                                                        
+          0.00       0.00       0.00      0.00     41.38-1 LATE CHARGE                                                              
+11-04-22  01-23  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        196.47-      0.00       0.00    196.47-                                                                                     
+                                      1,390.97   NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+
+                                                                                                                                    
+JANICE SUSIE REGNIER           THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+8517 GLENMORE DR               TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+LAS VEGAS            NV 89134  THIS MATERIAL HELPFUL.                                                                               
+                                                                                                                                    
+                                                    CUSTOMER SERVICE DEPARTMENT                                                     
+                                                                                                                                    
+
+*******************************************************************************                                                     
+------------------------ CURRENT ACCOUNT INFORMATION --------------------------                                                     
+                DATE     TOTAL    PRINCIPAL    LOAN       CURRENT                                                                   
+              PAYMENT   PAYMENT   & INTEREST  INTEREST    PRINCIPAL      ESCROW                                                     
+ LOAN NUMBER    DUE      AMOUNT    PAYMENT     RATE       BALANCE       BALANCE                                                     
+ 0036287357   04-01-23    1032.72     811.74  5.25000    131,474.15      208.46                                                     
+  2ND MORTGAGE:                         0.00  0.00000      3,659.88                                                                 
+*******************************************************************************                                                     
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+01-04-23  01-23  173  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+01-04-23  01-23  173  PAYMENT                                                                                                       
+      1,032.72     233.46     578.28    220.98                                                                                      
+               135,604.02               257.51   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-14-22  12-22  312  COUNTY TAX DISBURSEMENT                                                                                       
+        491.01-      0.00       0.00    491.01-                                                                                     
+                                         36.53   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-02-22  12-22  173  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+12-02-22  12-22  173  PAYMENT                                                                                                       
+      1,032.72     232.45     579.29    220.98                                                                                      
+               135,837.48               527.54   NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-08-22  12-22  175  PRINCIPAL PAYMENT                                                                                             
+         12.28      12.28       0.00      0.00                                                                                      
+               136,069.93                        NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-08-22  11-22  172  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 02                                                     
+
+JANICE SUSIE REGNIER                                                                                                                
+LOAN NUMBER:  0036287357                                                                                                            
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+11-08-22  11-22  172  PAYMENT                                                                                                       
+      1,032.72     231.38     580.36    220.98                                                                                      
+               136,082.21               306.56   NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+
+                                                                                                                                    
+SHAWN R HUGGINS                THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+1529 SUN COPPER DR             TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+LAS VEGAS            NV 89117  THIS MATERIAL HELPFUL.                                                                               
+                                                                                                                                    
+                                                    CUSTOMER SERVICE DEPARTMENT                                                     
+                                                                                                                                    
+
+*******************************************************************************                                                     
+------------------------ CURRENT ACCOUNT INFORMATION --------------------------                                                     
+                DATE     TOTAL    PRINCIPAL    LOAN       CURRENT                                                                   
+              PAYMENT   PAYMENT   & INTEREST  INTEREST    PRINCIPAL      ESCROW                                                     
+ LOAN NUMBER    DUE      AMOUNT    PAYMENT     RATE       BALANCE       BALANCE                                                     
+ 0036767549   03-01-23    1721.71    1328.34  4.37500    125,379.01       14.52                                                     
+  2ND MORTGAGE:                         0.00  0.00000     16,037.17                                                                 
+*******************************************************************************                                                     
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+01-31-23  01-23  173  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+01-31-23  01-23  173  PAYMENT                                                                                                       
+      1,721.71     864.91     463.43    393.37                                                                                      
+               142,284.24               431.68   NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-17-23  01-23  152  LATE CHARGE ASSESSMENT                                                                                        
+          0.00       0.00       0.00      0.00     66.42-1 LATE CHARGE                                                              
+12-22-22  12-22  173  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+12-22-22  12-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    355.06-   355.06   ADVANCE REFUND                                                           
+                                         38.31   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-22-22  12-22  173  PAYMENT                                                                                                       
+      1,721.71     861.77     466.57    393.37                                                                                      
+               143,149.15                38.31   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-16-22  12-22  152  LATE CHARGE ASSESSMENT                                                                                        
+          0.00       0.00       0.00      0.00     66.42-1 LATE CHARGE                                                              
+12-14-22  12-22  161  ESCROW ADVANCE                                                                                                
+        355.06       0.00       0.00    355.06                                                                                      
+                                        355.06-  NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 02                                                     
+
+SHAWN R HUGGINS                                                                                                                     
+LOAN NUMBER:  0036767549                                                                                                            
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+12-14-22  12-22  312  COUNTY TAX DISBURSEMENT                                                                                       
+        810.53-      0.00       0.00    810.53-                                                                                     
+                                        355.06-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-29-22  11-22  173  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+11-29-22  11-22  173  PAYMENT                                                                                                       
+      1,721.71     858.64     469.70    393.37                                                                                      
+               144,010.92               455.47   NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-16-22  11-22  152  LATE CHARGE ASSESSMENT                                                                                        
+          0.00       0.00       0.00      0.00     66.42-1 LATE CHARGE                                                              P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+
+                                                                                                                                    
+VALENTINO J AMARAL             THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+5205 CHEETAH CT                TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+NORTH LAS VEGAS      NV 89031  THIS MATERIAL HELPFUL.                                                                               
+                                                                                                                                    
+                                                    CUSTOMER SERVICE DEPARTMENT                                                     
+                                                                                                                                    
+
+*******************************************************************************                                                     
+------------------------ CURRENT ACCOUNT INFORMATION --------------------------                                                     
+                DATE     TOTAL    PRINCIPAL    LOAN       CURRENT                                                                   
+              PAYMENT   PAYMENT   & INTEREST  INTEREST    PRINCIPAL      ESCROW                                                     
+ LOAN NUMBER    DUE      AMOUNT    PAYMENT     RATE       BALANCE       BALANCE                                                     
+ 0038432787   03-01-23    1327.80    1123.36  4.99000    178,297.37      112.76                                                     
+  2ND MORTGAGE:                         0.00  0.00000      3,370.08                                                                 
+*******************************************************************************                                                     
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+01-12-23  01-23  172  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+01-12-23  01-23  172  PAYMENT                                                                                                       
+      1,327.80     378.78     744.58    204.44                                                                                      
+               182,047.81               225.39   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-15-22  12-22  172  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+12-15-22  12-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    183.49-   183.49   ADVANCE REFUND                                                           
+                                         20.95   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-15-22  12-22  172  PAYMENT                                                                                                       
+      1,327.80     377.21     746.15    204.44                                                                                      
+               182,426.59                20.95   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-14-22  12-22  161  ESCROW ADVANCE                                                                                                
+        183.49       0.00       0.00    183.49                                                                                      
+                                        183.49-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-14-22  12-22  312  COUNTY TAX DISBURSEMENT                                                                                       
+        317.07-      0.00       0.00    317.07-                                                                                     
+                                        183.49-  NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 02                                                     
+
+VALENTINO J AMARAL                                                                                                                  
+LOAN NUMBER:  0038432787                                                                                                            
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+11-10-22  11-22  172  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+11-10-22  11-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00     70.86-    70.86   ADVANCE REFUND                                                           
+                                        133.58   NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-10-22  11-22  172  PAYMENT                                                                                                       
+      1,327.80     375.65     747.71    204.44                                                                                      
+               182,803.80               133.58   NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+
+                                                                                                                                    
+CHARLES B MILSTEIN JR          THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+8213 SEDONA SUNRISE DR         TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+LAS VEGAS            NV 89128  THIS MATERIAL HELPFUL.                                                                               
+                                                                                                                                    
+                                                    CUSTOMER SERVICE DEPARTMENT                                                     
+                                                                                                                                    
+
+*******************************************************************************                                                     
+------------------------ CURRENT ACCOUNT INFORMATION --------------------------                                                     
+                DATE     TOTAL    PRINCIPAL    LOAN       CURRENT                                                                   
+              PAYMENT   PAYMENT   & INTEREST  INTEREST    PRINCIPAL      ESCROW                                                     
+ LOAN NUMBER    DUE      AMOUNT    PAYMENT     RATE       BALANCE       BALANCE                                                     
+ 0046531000   04-01-23    1948.15    1525.88  3.99000    189,363.63      199.44-                                                    
+  2ND MORTGAGE:                         0.00  0.00000     22,320.22                                                                 
+*******************************************************************************                                                     
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+01-30-23  03-23  175  PRINCIPAL PAYMENT                                                                                             
+      1,948.15   1,948.15       0.00      0.00                                                                                      
+               215,068.84                        NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-26-23  02-23  172  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+01-26-23  02-23  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    322.14-   322.14   ADVANCE REFUND                                                           
+                                        100.13   NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-26-23  02-23  172  PAYMENT                                                                                                       
+      1,948.15     875.60     650.28    422.27                                                                                      
+               217,016.99               100.13   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-23-22  01-23  172  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+12-23-22  01-23  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    422.27-   422.27   ADVANCE REFUND                                                           
+                                        322.14-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-23-22  01-23  172  PAYMENT                                                                                                       
+      1,948.15     872.70     653.18    422.27                                                                                      
+               217,892.59               322.14-  NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 02                                                     
+
+CHARLES B MILSTEIN JR                                                                                                               
+LOAN NUMBER:  0046531000                                                                                                            
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+12-14-22  01-23  161  ESCROW ADVANCE                                                                                                
+        721.84       0.00       0.00    721.84                                                                                      
+                                        744.41-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-14-22  12-22  312  COUNTY TAX DISBURSEMENT                                                                                       
+        721.84-      0.00       0.00    721.84-                                                                                     
+                                        744.41-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-29-22  12-22  172  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+11-29-22  12-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    422.27-   422.27   ADVANCE REFUND                                                           
+                                         22.57-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-29-22  12-22  172  PAYMENT                                                                                                       
+      1,948.15     869.81     656.07    422.27                                                                                      
+               218,765.29                22.57-  NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+
+                                                                                                                                    
+JOCK S JONES                   THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+4445 TOMER LN                  TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+LAS VEGAS            NV 89121  THIS MATERIAL HELPFUL.                                                                               
+                                                                                                                                    
+                                                    CUSTOMER SERVICE DEPARTMENT                                                     
+                                                                                                                                    
+
+*******************************************************************************                                                     
+------------------------ CURRENT ACCOUNT INFORMATION --------------------------                                                     
+                DATE     TOTAL    PRINCIPAL    LOAN       CURRENT                                                                   
+              PAYMENT   PAYMENT   & INTEREST  INTEREST    PRINCIPAL      ESCROW                                                     
+ LOAN NUMBER    DUE      AMOUNT    PAYMENT     RATE       BALANCE       BALANCE                                                     
+ 0047233812   02-01-23    1171.71     776.35  2.87500    182,424.03      949.40-                                                    
+*******************************************************************************                                                     
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+01-17-23  01-23  152  LATE CHARGE ASSESSMENT                                                                                        
+          0.00       0.00       0.00      0.00     31.05-1 LATE CHARGE                                                              
+01-05-23  01-23  161  ESCROW ADVANCE                                                                                                
+        129.39       0.00       0.00    129.39                                                                                      
+                                        809.56-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-05-23  12-23  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        129.39-      0.00       0.00    129.39-                                                                                     
+                                        809.56-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-29-22  12-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    395.36-   395.36   ADVANCE REFUND                                                           
+                                        680.17-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-29-22  12-22  173  PAYMENT                                                                                                       
+      1,171.71     337.67     438.68    395.36                                                                                      
+               182,762.51               680.17-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-14-22  12-22  161  ESCROW ADVANCE                                                                                                
+        276.42       0.00       0.00    276.42                                                                                      
+                                      1,075.53-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-14-22  12-22  312  COUNTY TAX DISBURSEMENT                                                                                       
+        276.42-      0.00       0.00    276.42-                                                                                     
+                                      1,075.53-  NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 02                                                     
+
+JOCK S JONES                                                                                                                        
+LOAN NUMBER:  0047233812                                                                                                            
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+12-05-22  12-22  161  ESCROW ADVANCE                                                                                                
+        131.97       0.00       0.00    131.97                                                                                      
+                                        799.11-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-05-22  12-22  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        131.97-      0.00       0.00    131.97-                                                                                     
+                                        799.11-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-04-22  12-22  161  ESCROW ADVANCE                                                                                                
+        131.97       0.00       0.00    131.97                                                                                      
+                                        667.14-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-04-22  12-22  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        131.97-      0.00       0.00    131.97-                                                                                     
+                                        667.14-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-03-22  11-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    395.36-   395.36   ADVANCE REFUND                                                           
+                                        535.17-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-03-22  11-22  173  PAYMENT                                                                                                       
+      1,171.71     336.87     439.48    395.36                                                                                      
+               183,100.18               535.17-  NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+
+                                                                                                                                    
+GINA RAOUF                     THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+APT G-207                      TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+1605 COUNTY LINE RD            THIS MATERIAL HELPFUL.                                                                               
+LONGMONT             CO 80504                                                                                                       
+                                                    CUSTOMER SERVICE DEPARTMENT                                                     
+                                                                                                                                    
+
+*******************************************************************************                                                     
+------------------------ CURRENT ACCOUNT INFORMATION --------------------------                                                     
+                DATE     TOTAL    PRINCIPAL    LOAN       CURRENT                                                                   
+              PAYMENT   PAYMENT   & INTEREST  INTEREST    PRINCIPAL      ESCROW                                                     
+ LOAN NUMBER    DUE      AMOUNT    PAYMENT     RATE       BALANCE       BALANCE                                                     
+ 0047259643   03-01-23    1101.94     939.06  3.87500    187,685.97      309.20-                                                    
+  2ND MORTGAGE:                         0.00  0.00000     13,221.66                                                                 
+*******************************************************************************                                                     
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+01-18-23  01-23  173  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+01-18-23  01-23  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    162.88-   162.88   ADVANCE REFUND                                                           
+                                        188.86-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-18-23  01-23  173  PAYMENT                                                                                                       
+      1,148.89     330.85     608.21    162.88     46.95 1 LATE CHARGE                                                              
+               201,239.55               188.86-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-17-23  01-23  152  LATE CHARGE ASSESSMENT                                                                                        
+          0.00       0.00       0.00      0.00     46.95-1 LATE CHARGE                                                              
+12-16-22  12-22  173  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+12-16-22  12-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    162.88-   162.88   ADVANCE REFUND                                                           
+                                        351.74-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-16-22  12-22  173  PAYMENT                                                                                                       
+      1,101.94     329.79     609.27    162.88                                                                                      
+               201,570.40               351.74-  NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 02                                                     
+
+GINA RAOUF                                                                                                                          
+LOAN NUMBER:  0047259643                                                                                                            
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+12-14-22  12-22  161  ESCROW ADVANCE                                                                                                
+        283.22       0.00       0.00    283.22                                                                                      
+                                        514.62-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-14-22  12-22  312  COUNTY TAX DISBURSEMENT                                                                                       
+        283.22-      0.00       0.00    283.22-                                                                                     
+                                        514.62-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-16-22  11-22  173  PAYMENT                                                                                                       
+          0.00       0.00       0.00      0.00                                                                                      
+11-16-22  11-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    162.88-   162.88   ADVANCE REFUND                                                           
+                                        231.40-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-16-22  11-22  173  PAYMENT                                                                                                       
+      1,101.94     328.72     610.34    162.88                                                                                      
+               201,900.19               231.40-  NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+
+                                                                                                                                    
+MATHEW D ANDERSON              THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+230 PALACE CT                  TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+RENO                 NV 89506  THIS MATERIAL HELPFUL.                                                                               
+                                                                                                                                    
+                                                    CUSTOMER SERVICE DEPARTMENT                                                     
+                                                                                                                                    
+
+*******************************************************************************                                                     
+------------------------ CURRENT ACCOUNT INFORMATION --------------------------                                                     
+                DATE     TOTAL    PRINCIPAL    LOAN       CURRENT                                                                   
+              PAYMENT   PAYMENT   & INTEREST  INTEREST    PRINCIPAL      ESCROW                                                     
+ LOAN NUMBER    DUE      AMOUNT    PAYMENT     RATE       BALANCE       BALANCE                                                     
+ 0050678630   03-01-23    1605.25    1175.14  3.25000    254,161.62      432.40-                                                    
+*******************************************************************************                                                     
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+01-30-23  02-23  173  PAYMENT                                                                                                       
+        141.03       0.00       0.00      0.00    141.03 1 LATE CHARGE                                                              
+01-30-23  01-23  172  PAYMENT                                                                                                       
+      1,605.25     484.16     690.98    430.11                                                                                      
+               254,647.09             1,895.62   NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-17-23  01-23  152  LATE CHARGE ASSESSMENT                                                                                        
+          0.00       0.00       0.00      0.00     47.01-1 LATE CHARGE                                                              
+01-05-23  04-23  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        178.49-      0.00       0.00    178.49-                                                                                     
+                                      1,465.51   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-23-22  12-22  173  PAYMENT                                                                                                       
+      1,605.25     482.85     692.29    430.11                                                                                      
+               255,131.25             1,644.00   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-16-22  12-22  152  LATE CHARGE ASSESSMENT                                                                                        
+          0.00       0.00       0.00      0.00     47.01-1 LATE CHARGE                                                              
+12-15-22  12-22  312  COUNTY TAX DISBURSEMENT                                                                                       
+        172.24-      0.00       0.00    172.24-                                                                                     
+                                      1,213.89   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-14-22  00-00  631  PROPERTY PRESERVATION DISBURSEMENT                                                                            
+         20.00       0.00       0.00      0.00                                                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 02                                                     
+
+MATHEW D ANDERSON                                                                                                                   
+LOAN NUMBER:  0050678630                                                                                                            
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+12-09-22  11-22  173  PAYMENT                                                                                                       
+      1,605.25     481.55     693.59    430.11                                                                                      
+               255,614.10             1,386.13   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-05-22  04-23  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        178.49-      0.00       0.00    178.49-                                                                                     
+                                        956.02   NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-16-22  11-22  152  LATE CHARGE ASSESSMENT                                                                                        
+          0.00       0.00       0.00      0.00     47.01-1 LATE CHARGE                                                              
+11-04-22  04-23  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        178.49-      0.00       0.00    178.49-                                                                                     
+                                      1,134.51   NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+
+                                                                                                                                    
+ALEXIS FRAZER                  THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+5313 DAWN BREAK CANYON ST      TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+LAS VEGAS            NV 89031  THIS MATERIAL HELPFUL.                                                                               
+                                                                                                                                    
+                                                    CUSTOMER SERVICE DEPARTMENT                                                     
+                                                                                                                                    
+
+*******************************************************************************                                                     
+------------------------ CURRENT ACCOUNT INFORMATION --------------------------                                                     
+                DATE     TOTAL    PRINCIPAL    LOAN       CURRENT                                                                   
+              PAYMENT   PAYMENT   & INTEREST  INTEREST    PRINCIPAL      ESCROW                                                     
+ LOAN NUMBER    DUE      AMOUNT    PAYMENT     RATE       BALANCE       BALANCE                                                     
+ 0055924963   03-01-23    1407.37    1043.27  2.75000    244,253.93       25.21                                                     
+*******************************************************************************                                                     
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+01-05-23  02-23  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        162.09-      0.00       0.00    162.09-                                                                                     
+                                        385.29   NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-05-23  01-23  173  PAYMENT                                                                                                       
+      1,407.37     481.31     561.96    364.10                                                                                      
+               244,736.35               547.38   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-14-22  12-22  312  COUNTY TAX DISBURSEMENT                                                                                       
+        403.80-      0.00       0.00    403.80-                                                                                     
+                                        183.28   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-08-22  12-22  173  PAYMENT                                                                                                       
+      1,407.37     480.21     563.06    364.10                                                                                      
+               245,217.66               587.08   NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-05-22  02-23  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        162.09-      0.00       0.00    162.09-                                                                                     
+                                        222.98   NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-04-22  02-23  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        162.09-      0.00       0.00    162.09-                                                                                     
+                                        385.07   NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+
+                                                                                                                                    
+JOHN R MAJORS JR               THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+5134 CHARLIE CT                TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+LAS VEGAS            NV 89122  THIS MATERIAL HELPFUL.                                                                               
+                                                                                                                                    
+                                                    CUSTOMER SERVICE DEPARTMENT                                                     
+                                                                                                                                    
+
+*******************************************************************************                                                     
+------------------------ CURRENT ACCOUNT INFORMATION --------------------------                                                     
+                DATE     TOTAL    PRINCIPAL    LOAN       CURRENT                                                                   
+              PAYMENT   PAYMENT   & INTEREST  INTEREST    PRINCIPAL      ESCROW                                                     
+ LOAN NUMBER    DUE      AMOUNT    PAYMENT     RATE       BALANCE       BALANCE                                                     
+ 0057024861   03-01-23    1593.68    1147.24  5.12500    208,693.03      238.16-                                                    
+*******************************************************************************                                                     
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+01-20-23  12-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    446.44-   446.44   ADVANCE REFUND                                                           
+                                        115.21-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-20-23  12-22  173  PAYMENT                                                                                                       
+      1,593.68     252.70     894.54    446.44                                                                                      
+               209,201.66               115.21-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-17-23  12-22  152  LATE CHARGE ASSESSMENT                                                                                        
+          0.00       0.00       0.00      0.00     45.89-1 LATE CHARGE                                                              
+01-11-23  00-00  631  PROPERTY PRESERVATION DISBURSEMENT                                                                            
+         20.00       0.00       0.00      0.00                                                                                      
+01-05-23  12-22  161  ESCROW ADVANCE                                                                                                
+        177.06       0.00       0.00    177.06                                                                                      
+                                        561.65-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+01-05-23  12-23  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        177.06-      0.00       0.00    177.06-                                                                                     
+                                        561.65-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-16-22  12-22  152  LATE CHARGE ASSESSMENT                                                                                        
+          0.00       0.00       0.00      0.00     45.89-1 LATE CHARGE                                                              
+12-14-22  12-22  161  ESCROW ADVANCE                                                                                                
+        384.59       0.00       0.00    384.59                                                                                      
+                                        384.59-  NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 02                                                     
+
+JOHN R MAJORS JR                                                                                                                    
+LOAN NUMBER:  0057024861                                                                                                            
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+12-14-22  12-22  312  COUNTY TAX DISBURSEMENT                                                                                       
+        661.71-      0.00       0.00    661.71-                                                                                     
+                                        384.59-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-05-22  12-22  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        181.30-      0.00       0.00    181.30-                                                                                     
+                                        277.12   NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-29-22  12-22  351  HAZARD INSURANCE DISBURSEMENT                                                                                 
+        609.68-      0.00       0.00    609.68-                                                                                     
+                                        458.42   NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-14-22  11-22  173  PAYMENT                                                                                                       
+      1,593.68     251.62     895.62    446.44                                                                                      
+               209,454.36             1,068.10   NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-04-22  12-22  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
+        181.30-      0.00       0.00    181.30-                                                                                     
+                                        621.66   NEW PRINCIPAL/ESCROW BALANCES                                                      
