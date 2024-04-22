@@ -1008,3 +1008,63 @@ PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE
 11-04-22  12-22  310  MIP/PMI/FHA DISBURSEMENT                                                                                      
         181.30-      0.00       0.00    181.30-                                                                                     
                                         621.66   NEW PRINCIPAL/ESCROW BALANCES                 kkkhhh                                     
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+LOAN NUMBER:  0000770388                                                                                                            
+
+
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+                   ACTIVITY FOR PERIOD 11-01-22 - 01-31-23                                                                          
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+PROCESS   DUE    TRANSACTION           TRANSACTION              EFFECTIVE DATE                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+ DATE     DATE   CODE                  DESCRIPTION              OF TRANSACTION                                                      
+-------------------------------------------------------------------------------                                                     
+-------------------------------------------------------------------------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+    TRANSACTION  PRIN PD/            ESCROW PD/ -------------OTHER-------------                                                     
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+      AMOUNT     BALANCE    INTEREST  BALANCE    AMOUNT  CODE/DESCRIPTION                                                           
+-------------------------------------------------------------------------------                                                     
+-------------------------------------------------------------------------------                                                     
+12-01-22  12-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+12-01-22  12-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    314.47-   314.47   ADVANCE REFUND                                                           
+          0.00       0.00       0.00    314.47-   314.47   ADVANCE REFUND                                                           
+                                        146.61-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+                                        146.61-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+12-01-22  12-22  171  PAYMENT                                                                                                       
+12-01-22  12-22  171  PAYMENT                                                                                                       
+        707.61     182.93     210.21    314.47                                                                                      
+        707.61     182.93     210.21    314.47                                                                                      
+                67,085.01               146.61-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+                67,085.01               146.61-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-01-22  11-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+11-01-22  11-22  168  REPAY OF ESCROW ADVANCE                                                                                       
+          0.00       0.00       0.00    314.47-   314.47   ADVANCE REFUND                                                           
+          0.00       0.00       0.00    314.47-   314.47   ADVANCE REFUND                                                           
+                                        461.08-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+                                        461.08-  NEW PRINCIPAL/ESCROW BALANCES                                                      
+11-01-22  11-22  171  PAYMENT                                                                                                       
+11-01-22  11-22  171  PAYMENT                                                                                                       
+        707.61     182.36     210.78    314.47                                                                                      
+        707.61     182.36     210.78    314.47                                                                                      
+                67,267.94               461.08-  NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+                67,267.94               461.08-  NEW PRINCIPAL/ESCROW BALANCES                                                      P6231-45C            CUSTOMER ACCOUNT ACTIVITY STATEMENT          DATE 03/03/23                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+REQ BY MLR                                                              PAGE 01                                                     
+
+
+                                                                                                                                    
+                                                                                                                                    
+BARBARA BATISTA PEREZ          THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+BARBARA BATISTA PEREZ          THE ENCLOSED INFORMATION IS PROVIDED IN RESPONSE                                                     
+1905 HALLWOOD DR               TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+1905 HALLWOOD DR               TO YOUR RECENT REQUEST.  WE HOPE YOU WILL FIND                                                       
+LAS VEGAS            NV 89119  THIS MATERIAL HELPFUL.                                                                               
+LAS VEGAS            NV 89119  THIS MATERIAL HELPFUL.                                                                               
+                                                                                                                                    
+                                                                                                                                    
+                                                    CUSTOMER SERVICE DEPARTMENT                                                     
+
