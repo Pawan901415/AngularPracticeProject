@@ -1068,3 +1068,26 @@ LAS VEGAS            NV 89119  THIS MATERIAL HELPFUL.
                                                                                                                                     
                                                     CUSTOMER SERVICE DEPARTMENT                                                     
 
+
+
+
+
+
+//////////
+
+
+
+
+for (int i = 0; i < lines.Length; i++)
+        {
+            if (lines[i].Contains("CURRENT ACCOUNT INFORMATION"))
+            {
+                isCurrentAccountInfo = true;
+            }
+            else if (isCurrentAccountInfo && lines[i].Trim().StartsWith("LOAN NUMBER"))
+            {
+                string tempLine = lines[i + 1];
+                string[] parts = tempLine.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                loanNumber = parts[0];
+                Console.WriteLine($"Extracted loan number: {loanNumber}");
+                isCurrentAccountInfo = false; // reset the flag
